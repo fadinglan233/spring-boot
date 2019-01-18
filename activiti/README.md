@@ -62,3 +62,6 @@ public class ActivitiApplication {
 #### 2.下载安装 actiBPM插件
 ![image](https://github.com/bijialin/spring-boot/raw/master/activiti/images/actiBPMWindow.png)
 ##### 在resources下创建个processes目录，在这个目录下创建bpmn文件，deploy的时候直接使用文件名部署即可.
+##### 例如test.bpmn
+![image](https://github.com/bijialin/spring-boot/raw/master/activiti/images/testbpm.png)
+
