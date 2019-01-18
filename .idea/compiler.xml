@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="activiti" />
         <module name="elasticsearch" />
+        <module name="solr" />
         <module name="spring-boot" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="activiti" options="-parameters" />
       <module name="elasticsearch" options="-parameters" />
+      <module name="solr" options="-parameters" />
     </option>
   </component>
 </project>

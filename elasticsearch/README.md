@@ -150,7 +150,7 @@ public interface UserSearchRepository extends ElasticsearchRepository<User, Long
 
 
 ### more articles please click [my blog](https://www.jianshu.com/u/1bb4b4eaef1e)
-### of course you can send email to me [nickbi@nickbi.com](nickbi@nickbi.com)
+### of course you can send email to me [nickbi@nickbi.com](mailto:nickbi@nickbi.com)
 
 ### 更多博客，请访问[我的博客](https://www.jianshu.com/u/1bb4b4eaef1e)
-### 如遇问题，请发送邮件到我的邮箱[nickbi@nickbi.com](nickbi@nickbi.com)
+### 如遇问题，请发送邮件到我的邮箱[nickbi@nickbi.com](mailto:nickbi@nickbi.com)
