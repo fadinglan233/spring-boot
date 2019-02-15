@@ -1,8 +1,8 @@
 # Kafka
 ### this is a kafka Spring Boot project repository
 
-# Solr项目简介
-### Solr Spring Boot的学习项目
+# Kafka项目简介
+### Kafka Spring Boot的学习项目
 
 ### maven依赖
 ````
